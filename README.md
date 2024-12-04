@@ -2,7 +2,7 @@
 
 **`Front-end Developer & UI/UX Designer 👩🏽‍💻🌻`**
 
-I'm name Naelem. I am a Front-end Developer and UI/UX Designer with experience in creating interfaces. I have expertise in HTML, CSS, JavaScript, ReactJS, AngularJS, TypeScript and Tailwind, which allow me to build interactive and responsive applications. Additionally, I am experienced in interface design, using tools such as Figma and implementing Design Systems. I am currently continuing to study and enhance my skills.
+I'm Naelem. I am a Front-end Developer and UI/UX Designer with experience in creating interfaces. I have expertise in HTML, CSS, JavaScript, ReactJS, AngularJS, TypeScript and Tailwind, which allow me to build interactive and responsive applications. Additionally, I am experienced in interface design, using tools such as Figma and implementing Design Systems. I am currently continuing to study and enhance my skills.
 
 ### 🤖 Linguagens e Tecnologias
 
