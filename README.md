@@ -88,16 +88,8 @@ I'm Naelem. I am a Front-end Developer and UI/UX Designer with experience in cre
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
