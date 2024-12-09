@@ -40,8 +40,8 @@ I'm Naelem. I am a Front-end Developer and UI/UX Designer with experience in cre
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
